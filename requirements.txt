@@ -1,0 +1,10 @@
+customtkinter
+gpt4all
+fpdf
+pillow
+pyyaml
+speechrecognition
+pyaudio
+pyttsx3
+
+fpdf pillow pyyaml
